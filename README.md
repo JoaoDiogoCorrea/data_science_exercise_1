@@ -29,4 +29,3 @@ Você recebeu um conjunto de dados que contém informações sobre vendas mensai
 
 - [ ] Com base na análise exploratória, tire conclusões preliminares sobre o desempenho da loja ao longo do ano.
 - [ ] Sugira possíveis ações ou estratégias com base nos insights obtidos.
-- [ ] Este exercício visa proporcionar prática na análise inicial de dados, visualização e interpretação de resultados, habilidades essenciais para um cientista de dados.
