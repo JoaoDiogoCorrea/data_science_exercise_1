@@ -4,6 +4,10 @@
 
 Você recebeu um conjunto de dados que contém informações sobre vendas mensais de uma loja ao longo de um ano. Cada linha representa um mês, e as colunas incluem informações como número de vendas, receita gerada, e custos associados. Aqui estão as etapas para o exercício:
 
+### Gertando os dados a serem trabalhados:
+
+- [X] Criação dos dados a serem explorados.
+
 ### Exploração Inicial:
 
 - [ ] Explore os dados para entender as características das variáveis disponíveis.
