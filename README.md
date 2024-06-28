@@ -1,3 +1,7 @@
+<h4 align="center"> 
+	🚀 Projeto em construção
+</h4>
+
 # Exercício: Análise Exploratória de Dados
 
 ![JEST](https://img.shields.io/badge/python-6DA55F?style=for-the-badge&logo=python&logoColor=white)
