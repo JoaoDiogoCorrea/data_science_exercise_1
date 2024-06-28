@@ -7,7 +7,7 @@ Você recebeu um conjunto de dados que contém informações sobre vendas mensai
 ### Gertando os dados a serem trabalhados:
 
 - [X] Criação dos dados a serem explorados.
--- [X] Arquivo csv_generator.py
+- Arquivo -> generador_csv.py
 
 ### Exploração Inicial:
 
