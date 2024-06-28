@@ -10,7 +10,7 @@ ano_desejado = 2023
 np.random.seed(0)  # Para garantir a reprodutibilidade dos resultados
 
 # Criando dados para 1000 registros
-num_registros = 1000
+num_registros = 10000
 
 # Função para gerar datas aleatórias dentro do ano
 def gerar_datas_aleatorias(num_registros, ano):
