@@ -17,6 +17,15 @@ print(dados.describe())
 print("\nValores faltantes por coluna:")
 print(dados.isnull().sum())
 
+# Convertendo a coluna 'Data' para o tipo datetime
+dados['datas'] = pd.to_datetime(dados['datas'])
+
+# Calculando a correlação entre 'Vendas', 'Receita' e 'Custos'
+correlacao = dados[['Vendas', 'Receita', 'Custos']].corr()
+print("Matriz de Correlação:")
+print(correlacao)
+
+
 # Plotar um histograma das vendas mensais
 import matplotlib.pyplot as plt
 plt.hist(dados['Vendas'], bins=20, edgecolor='black')
