@@ -15,9 +15,9 @@ Você recebeu um conjunto de dados que contém informações sobre vendas mensai
 
 ### Exploração Inicial:
 
-- [ ] Explore os dados para entender as características das variáveis disponíveis.
-- [ ] Identifique se há dados ausentes e determine como lidar com eles, se necessário.
-- [ ] Calcule estatísticas descritivas básicas para cada variável relevante (média, mediana, mínimo, máximo).
+- [X] Explore os dados para entender as características das variáveis disponíveis.
+- [X] Identifique se há dados ausentes e determine como lidar com eles, se necessário.
+- [X] Calcule estatísticas descritivas básicas para cada variável relevante (média, mediana, mínimo, máximo).
 
 ### Visualização de Dados:
 
