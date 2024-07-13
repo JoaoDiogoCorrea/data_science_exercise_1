@@ -43,4 +43,4 @@ Você recebeu um conjunto de dados que contém informações sobre vendas mensai
 ## Gráficos
 
 ### Correlação
-![Texto Alternativo](https://drive.google.com/file/d/1XQD-TlEqMC11eo_dMb9EZ61_eVeDI4u8/view?usp=drive_link)
+<img src="graficos/correlacao.png">
