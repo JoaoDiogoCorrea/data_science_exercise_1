@@ -38,3 +38,9 @@ Você recebeu um conjunto de dados que contém informações sobre vendas mensai
 
 - [ ] Com base na análise exploratória, tire conclusões preliminares sobre o desempenho da loja ao longo do ano.
 - [ ] Sugira possíveis ações ou estratégias com base nos insights obtidos.
+
+
+## Gráficos
+
+### Correlação
+![Texto Alternativo](https://drive.google.com/file/d/1XQD-TlEqMC11eo_dMb9EZ61_eVeDI4u8/view?usp=drive_link)
